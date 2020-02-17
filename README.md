@@ -1,4 +1,4 @@
-# Unikraft "hello world" Application
+# JavaScript/Duktape on Unikraft
 
 To build and run this application please use the `kraft` script:
 
