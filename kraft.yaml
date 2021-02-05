@@ -1,6 +1,6 @@
 specification: '0.4'
 
-unikraft: '0.4'
+unikraft: '0.5'
 
 architectures:
   x86_64: true
@@ -9,9 +9,9 @@ platforms:
   kvm: true
       
 libraries:
-  newlib: '0.4'
+  newlib: '0.5'
   duktape:
-    version: '0.4'
+    version: '0.5'
     kconfig:
       - CONFIG_DUKTAPE=y
       - CONFIG_DUKTAPE_MAIN_FUNCTION=y
