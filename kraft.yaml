@@ -1,13 +1,9 @@
-specification: '0.4'
-
+specification: '0.5'
+name: duktape
 unikraft: '0.4'
-
-architectures:
-  x86_64: true
-
-platforms:
-  kvm: true
-      
+targets:
+  - architecture: x86_64
+    platform: kvm
 libraries:
   newlib: '0.4'
   duktape:
