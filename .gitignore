@@ -3,3 +3,4 @@
 /.config
 /.config.old
 /workdir/
+/rootfs.cpio
