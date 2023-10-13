@@ -1,6 +1,5 @@
 /.unikraft/
 /.vscode/
-/.config
-/.config.old
+/.config*
 /workdir/
 /rootfs.cpio
