@@ -1,0 +1,5 @@
+runs:
+  - name: interp
+    rootfs: rootfs
+    memory: 32
+    networking: False
